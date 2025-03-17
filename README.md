@@ -56,7 +56,7 @@
 ## 🎙️ Podcasts
 
 ### Flutter Podcast
-🔗 [Lien](https://flutter.dev/community)
+🔗 [Lien](https://www.youtube.com/channel/UCmL2YRyMphHK87fnyFlotWA)
 
 💡 **Justification** : Ce podcast offre des analyses approfondies sur les tendances, les évolutions et les bonnes pratiques en Flutter. C’est un bon moyen d’apprendre en profondeur sur l’écosystème Flutter tout en restant informé des actualités.
 
@@ -92,7 +92,7 @@
 ## 🎤 Conférences & Webinaires
 
 ### Flutter Events
-🔗 [Lien](https://events.google.com/flutter/)
+🔗 [Lien](https://flutter.dev/events)
 
 💡 **Justification** : Cet espace permet de suivre et d’assister à des événements dédiés à Flutter, incluant des meetups, conférences et sessions de formation.
 
@@ -106,11 +106,6 @@
 
 💡 **Justification** : La conférence annuelle de Google où sont annoncées toutes les grandes nouveautés de l’écosystème Flutter.
 
-### Flutter Engage
-🔗 [Lien](https://developers.google.com/events/flutter-engage)
-
-💡 **Justification** : Sessions organisées par Google pour approfondir les connaissances Flutter, avec des démonstrations et discussions techniques.
-
 ## 📩 Newsletters
 
 ### Flutter Weekly
@@ -119,7 +114,7 @@
 💡 **Justification** : Une newsletter hebdomadaire qui résume les dernières tendances, mises à jour et articles sur Flutter.
 
 ### Flutter Newsletter
-🔗 [Lien](https://flutter.dev/community)
+🔗 [Lien](https://flutternewsletter.volpato.dev/)
 
 💡 **Justification** : Contient des articles et tutoriels détaillés envoyés directement par email, facilitant le suivi des nouveautés Flutter.
 
