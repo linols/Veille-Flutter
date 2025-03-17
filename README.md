@@ -3,12 +3,12 @@
 ## 📰 Flux RSS
 
 ### Medium Flutter
-🔗 [Lien](https://medium.com/flutter)
+🔗 [Lien](https://medium.com/feed/flutter-io)
 
 💡 **Justification** : Medium est une plateforme où de nombreux développeurs et l'équipe Flutter partagent des articles sur les dernières mises à jour et bonnes pratiques. Grâce aux flux RSS de Medium, il est possible de suivre en temps réel les publications sans avoir à consulter le site directement. C’est une excellente ressource pour découvrir de nouvelles tendances et des retours d’expérience.
 
 ### Flutter Awesome
-🔗 [Lien](https://flutterawesome.com/)
+🔗 [Lien](https://flutterawesome.com/rss/)
 
 💡 **Justification** : Ce site est une mine d’or pour les développeurs cherchant à intégrer de nouveaux packages et widgets à leurs applications Flutter. Il recense les bibliothèques les plus populaires, les nouveaux packages et fournit des exemples concrets d’utilisation. Il permet ainsi d’accélérer le développement en découvrant des outils prêts à l’emploi.
 
