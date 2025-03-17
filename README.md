@@ -18,7 +18,7 @@
 | Communauté | Espace d’échanges entre développeurs Flutter avec support technique | [Flutter Discord](https://discord.com/invite/N7Yshp4) |
 | Communauté | Plateforme Slack pour échanger avec d’autres développeurs Flutter | [Flutter Slack](https://fluttercommunity.slack.com/) |
 | Conférences | Suivi des événements, meetups et conférences Flutter | [Flutter Events](https://events.google.com/flutter/) |
-| Conférences/Webinaires | Présentation des nouvelles fonctionnalités Flutter lors de Google I/O | [Google I/O](https://io.google/) |
+| Conférences/Webinaires | Conférence flutter friends basé sur le retour d'expérience et les nouveauté Flutter | [Conférence flutter friends]([https://io.google/](https://www.flutterfriends.dev/)) |
 | Conférences/Webinaires | Sessions de formation Flutter organisées par Google et ses partenaires | [Flutter Engage](https://developers.google.com/events/flutter-engage) |
 | Newsletter | Récapitulatif hebdomadaire des nouveautés et mises à jour Flutter | [Flutter Weekly](https://flutterweekly.dev/) |
 | Newsletter | Articles détaillés et tutoriels sur l’écosystème Flutter | [Flutter Newsletter](https://flutter.dev/community) |
