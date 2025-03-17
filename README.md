@@ -1,5 +1,13 @@
 # Veille-Flutter
 
+![477215427_635219189040556_63171776281718955_n](https://github.com/user-attachments/assets/aac8aa46-1a07-4282-a819-9336d773bb64)
+
+## 🔍 Introduction
+
+La veille technologique est essentielle pour rester informé des évolutions et tendances d’un domaine. Ce document a pour but de centraliser les meilleures ressources pour suivre l’actualité de Flutter, un framework de développement d’applications mobiles, web et desktop développé par Google. 
+
+Ce guide regroupe différentes sources d’informations telles que les flux RSS, les sites web spécialisés, les réseaux sociaux, les chaînes YouTube, les podcasts, les forums communautaires, ainsi que les événements et conférences liés à Flutter.
+
 ## 📰 Flux RSS
 
 ### Medium Flutter
@@ -106,31 +114,7 @@
 
 💡 **Justification** : La conférence annuelle de Google où sont annoncées toutes les grandes nouveautés de l’écosystème Flutter.
 
-## 📩 Newsletters
+## 📢 Conclusion
 
-### Flutter Weekly
-🔗 [Lien](https://flutterweekly.dev/)
-
-💡 **Justification** : Une newsletter hebdomadaire qui résume les dernières tendances, mises à jour et articles sur Flutter.
-
-### Flutter Newsletter
-🔗 [Lien](https://flutternewsletter.volpato.dev/)
-
-💡 **Justification** : Contient des articles et tutoriels détaillés envoyés directement par email, facilitant le suivi des nouveautés Flutter.
-
-## 📢 Agrégateurs de contenus
-
-### Feedly
-🔗 [Lien](https://feedly.com/)
-
-💡 **Justification** : Feedly est un outil permettant d’organiser efficacement sa veille en regroupant les flux RSS des principales sources d’actualités Flutter.
-
-### Netvibes
-🔗 [Lien](https://www.netvibes.com/)
-
-💡 **Justification** : Une alternative à Feedly qui permet également de centraliser plusieurs sources pour une veille optimisée.
-
----
-
-Ce guide structuré offre une vision complète de la veille technologique sur Flutter avec des ressources détaillées pour chaque type d’information.
+Grâce à ces différentes sources, il est possible d’effectuer une veille efficace sur Flutter en restant informé des dernières actualités, des nouvelles fonctionnalités et des meilleures pratiques. Ce document fournit un ensemble de ressources diversifiées permettant d’apprendre, d’échanger avec la communauté et de suivre l’évolution du framework. La régularité dans cette veille est essentielle pour maintenir ses compétences à jour et profiter pleinement des avancées de Flutter.
 
