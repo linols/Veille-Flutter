@@ -9,7 +9,6 @@
 | Twitter (X) | Annonces officielles et mises à jour régulières sur Flutter | [@FlutterDev](https://twitter.com/FlutterDev) |
 | Twitter (X) | Suivi des tendances et des développeurs influents de l’écosystème Flutter | [Google Devs](https://twitter.com/googledevs) |
 | LinkedIn | Permet de suivre des experts et développeurs spécialisés en Flutter | [LinkedIn Flutter](https://www.linkedin.com/search/results/people/?keywords=flutter%20developer) |
-| Google Alertes | Outil pour recevoir des alertes sur les nouvelles tendances Flutter | [Google Alerts](https://www.google.com/alerts) |
 | YouTube | Contenu officiel Flutter avec des conférences et des tutoriels détaillés | [Flutter YouTube](https://www.youtube.com/c/flutterdev) |
 | YouTube | Chaîne de vulgarisation technique avec des vidéos expertes sur Flutter | [Fireship](https://www.youtube.com/c/Fireship) |
 | Podcasts | Discussions et analyses sur les nouveautés et tendances du développement Flutter | [Flutter Podcast](https://flutter.dev/community) |
