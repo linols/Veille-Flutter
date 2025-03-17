@@ -4,10 +4,8 @@
 |--------|---------------|--------|
 | Flux RSS | Permet de suivre les nouveautés et évolutions officielles de Flutter | [Medium Flutter](https://medium.com/flutter) |
 | Flux RSS | Recense de nouvelles bibliothèques et des exemples d’applications utilisant Flutter | [Flutter Awesome](https://flutterawesome.com/) |
-| Flux RSS | Articles techniques et bonnes pratiques détaillées pour Flutter | [Raywenderlich Flutter](https://www.raywenderlich.com/flutter) |
-| Flux RSS | Ressources et tutoriels réguliers sur Flutter | [Flutter Institute](https://flutter.institute/) |
-| Flux RSS | Informations et mises à jour officielles sur Flutter et Dart par Google | [Google Developers Blog](https://developers.googleblog.com/search/label/Flutter) |
-| Flux RSS | Conseils et astuces sur Flutter publiés par la communauté | [Flutter Community](https://fluttercommunity.dev/) |
+| Site web | Articles techniques et bonnes pratiques détaillées pour Flutter | [Raywenderlich Flutter](https://www.raywenderlich.com/flutter) |
+| Site web | Ressources et tutoriels réguliers sur Flutter | [Flutter Institute](https://flutter.institute/) |
 | Twitter (X) | Annonces officielles et mises à jour régulières sur Flutter | [@FlutterDev](https://twitter.com/FlutterDev) |
 | Twitter (X) | Suivi des tendances et des développeurs influents de l’écosystème Flutter | [Google Devs](https://twitter.com/googledevs) |
 | LinkedIn | Permet de suivre des experts et développeurs spécialisés en Flutter | [LinkedIn Flutter](https://www.linkedin.com/search/results/people/?keywords=flutter%20developer) |
